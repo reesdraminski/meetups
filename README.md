@@ -1,5 +1,7 @@
 # meetups
-Create meetups that will allow you to congregate with people who share a commonality in order to forge friendships that last far beyond the hackathon.
+Create meetups that will allow you to congregate with people who share a commonality in order to forge friendships that last far beyond a hackathon.
+
+This would be ideal for hackUMBC to allow people to form new relationships and to create a sense of belonging for groups that may not otherwise feel welcome.
 
 ## Potential Improvements
 - Create an icebox version of database so that a meetup requires approval from an admin
@@ -10,3 +12,27 @@ Create meetups that will allow you to congregate with people who share a commona
 - Persistent login
 - Slack hooks for event reminders
 - Better time inputs
+
+## Possible Meetup Groups
+- Hobby
+  - Gaming
+    - Magic the Gathering
+    - Super Smash Bros.
+- Interests
+  - Music
+    - K-Pop
+    - EDM
+  - Video
+    - Anime
+    - Bollywood
+- Minory in Tech
+  - Women in Tech
+  - African-Americans in Tech
+- Career
+  - Entrepreneurs
+  - Non-Computing Majors
+- Technology Paths
+  - XR
+  - Web Dev
+  - Game Dev
+  - Machine Learning/AI
